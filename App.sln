@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CBE2977-D4E6-4316-94A2-4A55988DE078}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		.github\workflows\stario-spa.yml = .github\workflows\stario-spa.yml
 	EndProjectSection
 EndProject
 Global
